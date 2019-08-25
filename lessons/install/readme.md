@@ -47,7 +47,8 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+<i>python --version Python 3.7.3</i></br>
+I used this version in the Intro to Data Science
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +56,4 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+<i>python --version Python 3.7.3</i>

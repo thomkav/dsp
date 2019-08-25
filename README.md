@@ -30,22 +30,22 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 **All exercises _must_ be completed before the first day of class.**
 
 - Step 0.  Getting Started
-    - Step 0a. [Markdown](lessons/markdown) 
-    - Step 0b. [Fork GitHub Repo](lessons/git_fork)
+    - Step 0a. [Markdown](lessons/markdown/readme.md) - done
+    - Step 0b. [Fork GitHub Repo](lessons/git_fork/readme.md) - done
 - Step 1.  Installation  
-    - Step 1a. [Install software on your computer](lessons/install)  
-    - Step 1b. [Install Jupyter Notebook on your computer](lessons/install_jupyter)  
-- Step 2. [Choose and learn your editor(s)](lessons/editors)
-- Step 3. [Learn command line](lessons/command_line)  
-- Step 4. [Git and GitHub](lessons/git_intro)
-    - Step 4b [Git Branching](lessons/git_branches)
+    - Step 1a. [Install software on your computer](lessons/install/readme.md) - done
+    - Step 1b. [Install Jupyter Notebook on your computer](lessons/install_jupyter/readme.md) - done
+- Step 2. [Choose and learn your editor(s)](lessons/editors/readme.md)
+- Step 3. [Learn command line](lessons/command_line/readme.md)  
+- Step 4. [Git and GitHub](lessons/git_intro/readme.md)
+    - Step 4b [Git Branching](lessons/git_branches/readme.md)
 - Step 5. Python  
-    - Step 5a. [Learn Python](lessons/python_intro)  
-    - Step 5b. [Advanced Python](lessons/python_advanced)  
-    - Step 5c. [Python Pandas](lessons/pandas_intro)  
-- Step 6. [Linear Algebra](lessons/linear_algebra)
-- Step 7. [Statistics](lessons/statistics)
-- Step 8. [More Resources](lessons/more_resources)
+    - Step 5a. [Learn Python](lessons/python_intro/readme.md)  
+    - Step 5b. [Advanced Python](lessons/python_advanced/readme.md)  
+    - Step 5c. [Python Pandas](lessons/pandas_intro/readme.md)  
+- Step 6. [Linear Algebra](lessons/linear_algebra/readme.md)
+- Step 7. [Statistics](lessons/statistics/readme.md)
+- Step 8. [More Resources](lessons/more_resources/readme.md)
 
 ![save your work](img/save_your_work.png)
 

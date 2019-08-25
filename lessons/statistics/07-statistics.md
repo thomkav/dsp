@@ -12,7 +12,7 @@
 
 ## <a name="section-a"></a>1.  Introduction
 
-[<img src="https://github.com/vaughnparker/dsp/blob/master/img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
+[<img src="///img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
 
 Use Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) book for getting up to speed with core ideas in statistics and how to approach them programmatically. This book is available online, or you can buy a paper copy if you would like.
 
