@@ -35,10 +35,10 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 - Step 1.  Installation  
     - Step 1a. [Install software on your computer](lessons/install/readme.md) - done
     - Step 1b. [Install Jupyter Notebook on your computer](lessons/install_jupyter/readme.md) - done
-- Step 2. [Choose and learn your editor(s)](lessons/editors/readme.md)
-- Step 3. [Learn command line](lessons/command_line/readme.md)  
-- Step 4. [Git and GitHub](lessons/git_intro/readme.md)
-    - Step 4b [Git Branching](lessons/git_branches/readme.md)
+- Step 2. [Choose and learn your editor(s)](lessons/editors/readme.md) - chose Emacs, experimented with basic commands and walked through tutorials
+- Step 3. [Learn command line](lessons/command_line/readme.md)  - read through
+- Step 4. [Git and GitHub](lessons/git_intro/readme.md) - read through and did additional tutorials online
+    - Step 4b [Git Branching](lessons/git_branches/readme.md) - read through and did additional tutorials online
 - Step 5. Python  
     - Step 5a. [Learn Python](lessons/python_intro/readme.md)  
     - Step 5b. [Advanced Python](lessons/python_advanced/readme.md)  
