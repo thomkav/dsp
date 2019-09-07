@@ -40,10 +40,10 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 - Step 4. [Git and GitHub](lessons/git_intro/readme.md) - read through and did additional tutorials online
     - Step 4b [Git Branching](lessons/git_branches/readme.md) - read through and did additional tutorials online
 - Step 5. Python  
-    - Step 5a. [Learn Python](lessons/python_intro/readme.md)  
-    - Step 5b. [Advanced Python](lessons/python_advanced/readme.md)  
-    - Step 5c. [Python Pandas](lessons/pandas_intro/readme.md)  
-- Step 6. [Linear Algebra](lessons/linear_algebra/readme.md)
+    - Step 5a. [Learn Python](lessons/python_intro/readme.md) - worked/read through each submodule 
+    - Step 5b. [Advanced Python](lessons/python_advanced/readme.md)  - worked/read through each submodule
+    - Step 5c. [Python Pandas](lessons/pandas_intro/readme.md) 
+- Step 6. [Linear Algebra](lessons/linear_algebra/readme.md) - watched up through lesson 7 of 3 Blue 1 Brown's video series
 - Step 7. [Statistics](lessons/statistics/readme.md)
 - Step 8. [More Resources](lessons/more_resources/readme.md)
 
